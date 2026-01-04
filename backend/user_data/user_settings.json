@@ -1,0 +1,19 @@
+{
+  "autoRefresh": true,
+  "refreshInterval": 300,
+  "articlesPerPage": 20,
+  "defaultTimeFilter": "today",
+  "autoSummarize": true,
+  "autoCategorize": true,
+  "summaryLength": "medium",
+  "enableNotifications": true,
+  "notificationSound": true,
+  "emailAlerts": false,
+  "compactView": false,
+  "showImages": true,
+  "darkMode": false,
+  "maxArticles": 1000,
+  "autoCleanup": true,
+  "cleanupDays": 30,
+  "last_updated": null
+}
