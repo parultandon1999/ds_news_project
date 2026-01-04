@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 
 # Put your actual key here for the test
-api_key = "AIzaSyDclAcc262fueB45TY8q76RP3ghII9IXXA" 
+api_key = "no"
 genai.configure(api_key=api_key)
 
 print("My Available Models:")
